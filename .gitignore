@@ -1,0 +1,4 @@
+.nuxt/
+apps/nuxt/node_modules/nuxt/
+node_modules/
+yarn-error.log

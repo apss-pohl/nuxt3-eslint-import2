@@ -3,9 +3,9 @@
   "private": true,
   "scripts": {
     "main": "yarn workspace nuxt",
-    "build": "yarn nuxt nuxi build",
-    "dev": "yarn nuxt nuxi dev",
-    "start": "yarn nuxt nuxi preview",
+    "build": "yarn nuxt build",
+    "dev": "yarn nuxt dev",
+    "start": "yarn nuxt preview",
     "lint": "eslint './apps/**/*.{ts,vue}'"
   },
   "workspaces": {

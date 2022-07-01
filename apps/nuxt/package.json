@@ -1,12 +1,14 @@
 {
-  "name": "example-hello-world",
+  "description": "nuxt",
+  "devDependencies": {
+    "nuxt": "npm:nuxt3@latest"
+  },
+  "name": "nuxt",
   "private": true,
   "scripts": {
     "build": "nuxi build",
     "dev": "nuxi dev",
     "start": "nuxi preview"
   },
-  "devDependencies": {
-    "nuxt": "npm:nuxt3@latest"
-  }
+  "version": "0.0.1"
 }
